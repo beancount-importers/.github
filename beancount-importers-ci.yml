@@ -1,5 +1,4 @@
-name: Octo Organization CI
-
+name: beancount importers ci
 on:
   push:
     branches: [ $default-branch ]
